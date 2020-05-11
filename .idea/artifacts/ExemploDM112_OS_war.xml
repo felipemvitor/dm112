@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ExemploDM112_OS:war">
+    <output-path>$PROJECT_DIR$/ExemploDM112_OS/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ExemploDM112_OS</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ExemploDM112_OS.war">
+      <element id="artifact" artifact-name="ExemploDM112_OS:war exploded" />
+    </root>
+  </artifact>
+</component>

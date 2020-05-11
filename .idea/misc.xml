@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file url="file://$USER_HOME$/Downloads/Trabalho Final da Disciplina/LogisticaDM112/overlays" />
+    <file type="web" url="file://$PROJECT_DIR$/ExemploDM112_GAE" />
+    <file type="web" url="file://$PROJECT_DIR$/ExemploDM112_OS" />
+    <file type="web" url="file://$PROJECT_DIR$/ExemploServletDM112" />
+    <file type="web" url="file://$PROJECT_DIR$/LogisticaDM112" />
+    <file type="web" url="file://$PROJECT_DIR$/PagamentoDM112" />
+    <file type="web" url="file://$PROJECT_DIR$/PedidoDM112" />
+    <file type="web" url="file://$PROJECT_DIR$/UtilityDM112" />
+    <file type="web" url="file://$USER_HOME$/Downloads/Trabalho Final da Disciplina/LogisticaDM112" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/CommonsDM112/LogisticaDM112/pom.xml" />
+        <option value="$PROJECT_DIR$/LogisticaDM112/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/CommonsDM112/pom.xml" />
+        <option value="$PROJECT_DIR$/ExemploDM112_GAE/pom.xml" />
+        <option value="$PROJECT_DIR$/ExemploDM112_OS/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="14" project-jdk-type="JavaSDK" />
+</project>

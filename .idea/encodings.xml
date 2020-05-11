@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CommonsDM112/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ExemploServletDM112/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LogisticaDM112/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PagamentoDM112/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PedidoDM112/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PedidoDM112/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UtilityDM112/src" charset="UTF-8" />
+  </component>
+</project>

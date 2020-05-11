@@ -1,0 +1,58 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="PagamentoDM112:war exploded">
+    <output-path>$PROJECT_DIR$/PagamentoDM112/target/PagamentoDM112</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>PagamentoDM112</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PagamentoDM112" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="CommonsDM112-1.0.jar">
+            <element id="module-output" name="CommonsDM112" />
+          </element>
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webflux:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: io.projectreactor:reactor-core:3.3.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.reactivestreams:reactive-streams:1.0.3" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:javax.servlet.jsp-api:2.3.1" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-reactor-netty:2.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: io.projectreactor.netty:reactor-netty:0.9.6.RELEASE" />
+          <element id="library" level="project" name="Maven: io.netty:netty-codec-http:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-common:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-buffer:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-transport:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-codec:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-codec-http2:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-handler:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-resolver:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-handler-proxy:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-codec-socks:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-transport-native-unix-common:4.1.48.Final" />
+          <element id="library" level="project" name="Maven: org.glassfish:jakarta.el:3.0.3" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/PagamentoDM112/target/PagamentoDM112/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="PagamentoDM112/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PagamentoDM112" />
+        <module name="CommonsDM112" />
+        <module name="ExemploServletDM112" />
+        <module name="LogisticaDM112" />
+        <module name="UtilityDM112" />
+        <module name="PedidoDM112" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CommonsDM112" target="1.8" />
+      <module name="dm112-parent" target="1.5" />
+      <module name="ExemploDM112_GAE" target="1.8" />
+      <module name="ExemploDM112_OS" target="1.8" />
+      <module name="ExemploServletDM112" target="1.8" />
+      <module name="LogisticaDM112" target="1.8" />
+      <module name="LogisticaDM112 (1) (br.inatel.pos)" target="1.5" />
+      <module name="PagamentoDM112" target="1.8" />
+      <module name="PedidoDM112" target="1.8" />
+      <module name="UtilityDM112" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

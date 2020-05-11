@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CommonsDM112/CommonsDM112.iml" filepath="$PROJECT_DIR$/CommonsDM112/CommonsDM112.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploServletDM112/ExemploServletDM112.iml" filepath="$PROJECT_DIR$/ExemploServletDM112/ExemploServletDM112.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogisticaDM112/LogisticaDM112.iml" filepath="$PROJECT_DIR$/LogisticaDM112/LogisticaDM112.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PagamentoDM112/PagamentoDM112.iml" filepath="$PROJECT_DIR$/PagamentoDM112/PagamentoDM112.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PedidoDM112/PedidoDM112.iml" filepath="$PROJECT_DIR$/PedidoDM112/PedidoDM112.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilityDM112/UtilityDM112.iml" filepath="$PROJECT_DIR$/UtilityDM112/UtilityDM112.iml" />
+    </modules>
+  </component>
+</project>

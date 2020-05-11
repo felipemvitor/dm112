@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ExemploDM112_GAE:war">
+    <output-path>$PROJECT_DIR$/ExemploDM112_GAE/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ExemploDM112_GAE</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ExemploDM112_GAE-1.0.war">
+      <element id="artifact" artifact-name="ExemploDM112_GAE:war exploded" />
+    </root>
+  </artifact>
+</component>

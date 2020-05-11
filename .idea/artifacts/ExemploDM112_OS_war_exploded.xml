@@ -1,0 +1,46 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ExemploDM112_OS:war exploded">
+    <output-path>$PROJECT_DIR$/ExemploDM112_OS/target/ExemploDM112_OS</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>ExemploDM112_OS</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ExemploDM112_OS" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.2" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:javax.servlet.jsp-api:2.3.1" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/jrimum/jrimum-bopepo/0.2.3-SNAPSHOT/jrimum-bopepo-0.2.3-20111228.180206-4.jar" output-file-name="jrimum-bopepo-0.2.3-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/jrimum/jrimum-domkee/0.2.3-SNAPSHOT/jrimum-domkee-0.2.3-20111124.014941-2.jar" output-file-name="jrimum-domkee-0.2.3-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/jrimum/jrimum-vallia/0.2.3-SNAPSHOT/jrimum-vallia-0.2.3-20111124.014850-2.jar" output-file-name="jrimum-vallia-0.2.3-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/jrimum/jrimum-utilix/0.2.3-SNAPSHOT/jrimum-utilix-0.2.3-20111124.014738-2.jar" output-file-name="jrimum-utilix-0.2.3-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.4" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.15" />
+          <element id="library" level="project" name="Maven: com.lowagie:itext:2.0.8" />
+          <element id="library" level="project" name="Maven: javax.mail:mail:1.4" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ExemploDM112_OS/target/ExemploDM112_OS/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ExemploDM112_OS/web/Web" />
+    </root>
+  </artifact>
+</component>
